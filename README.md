@@ -2,9 +2,9 @@
 
 ### Student · Technology Enthusiast · Developer · Independent Learner
 
-\<p align="center">   \<a href="[https://www.yasharrashedzade.abrdns.com](https://www.yasharrashedzade.abrdns.com)">     \<strong>🌐 Visit My Official Website\</strong>   \</a> \</p>
+[**🌐 Visit My Official Website**](https://www.yasharrashedzade.abrdns.com)
 
-\<p align="center">   A personal space to explore my interests, share my projects, document my learning journey, and connect with curious minds. \</p>
+*A personal space to explore my interests, share my projects, document my learning journey, and connect with curious minds.*
 
 ---
 
@@ -133,7 +133,7 @@ I don't consider this website a finished portfolio. It's a growing representatio
 
 I'm always interested in exchanging ideas, learning from others, and connecting with people who are curious about science, technology, programming, cybersecurity, and creative problem-solving.
 
-- **Website:** [www.yasharrashedzade.abrdns.com](https://www.yasharrashedzade.abrdns.com)
+- **Official Website:** [yasharrashedzade.abrdns.com](https://www.yasharrashedzade.abrdns.com)
 - **GitHub:** [@yasharrashedzade](https://github.com/yasharrashedzade)
 - **Telegram:** [@yasharrashedzade](https://t.me/yasharrashedzade)
 
@@ -155,6 +155,6 @@ I'm always interested in exchanging ideas, learning from others, and connecting 
 
 ---
 
-\<p align="center">   \<a href="[https://www.yasharrashedzade.abrdns.com](https://www.yasharrashedzade.abrdns.com)">     \<strong>Explore My Website →\</strong>   \</a> \</p>
+\<p align="center">   \<strong>     \<a href="[https://www.yasharrashedzade.abrdns.com](https://www.yasharrashedzade.abrdns.com)">Explore My Official Website →\</a>   \</strong> \</p>
 
 \<p align="center">   Made by Yashar Rashedzadeh \</p>
