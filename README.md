@@ -153,8 +153,9 @@ I'm always interested in exchanging ideas, learning from others, and connecting 
 
 **من به یک مسیر از پیش تعیین‌شده محدود نیستم؛ کنجکاوی، یادگیری و ساختن، بخش مهمی از هویت فکری من هستند.**
 
+
 ---
 
-\<p align="center">   \<strong>     \<a href="[https://www.yasharrashedzade.abrdns.com](https://www.yasharrashedzade.abrdns.com)">Explore My Official Website →\</a>   \</strong> \</p>
+**[🌐 Explore My Official Website →](https://www.yasharrashedzade.abrdns.com)**
 
-\<p align="center">   Made by Yashar Rashedzadeh \</p>
+*Made by Yashar Rashedzadeh*
